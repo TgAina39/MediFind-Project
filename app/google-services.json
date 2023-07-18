@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494538280094",
+    "project_id": "testinglogin-ddb67",
+    "storage_bucket": "testinglogin-ddb67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494538280094:android:9a627456ece9203deb7f8f",
+        "android_client_info": {
+          "package_name": "com.example.testinglogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494538280094-naa4mnqc9jcqfhk7abic6353mk4cmcdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ79oX-O-v-J4ew8mMT3zcvdizslWBhDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494538280094-naa4mnqc9jcqfhk7abic6353mk4cmcdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
